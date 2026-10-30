@@ -1,0 +1,7 @@
+.DS_Store
+.build/
+.build-arm64/
+.build-x86_64/
+outputs/
+work/
+*.xcuserstate
